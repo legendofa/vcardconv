@@ -1,5 +1,5 @@
 # vcardconv
-This python script is inteded for converting vCards from version 2.1 to 4.0.
+This python script is intended for converting vCards from version 2.1 to 4.0.
 
 Your mileage may vary depending on which attributes your contacs have. Backup your files before tinkering.
 
